@@ -26,4 +26,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/DidulaThavisha/DidulaThavisha/blob/output/github-contribution-grid-snake2.svg)
