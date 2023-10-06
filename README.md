@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Didula Samaraweera</h1>
 
-<div align="right">
+<div align="center">
 
 ![image](2ua0.gif)
 </div>
 
-<div align="left">
+<div align="center">
 
 🔭 I’m currently an Undergrad of University of Moratuwa, Sri Lanka<br>👯 I’m looking to collaborate and compete<br>🤝 I’m looking for collaborations for Computer Vision related Project<br>🌱 I’m currently learning Generative AI & TinyML<br>💬 Don't hesitate to contact me <br>⚡ Fun fact - I am lazy but smart
 
