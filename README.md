@@ -31,4 +31,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake animation](https://github.com/DidulaThavisha/DidulaThavisha/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/DidulaThavisha/DidulaThavisha/output/snake.svg" alt="Snake animation" />
+
+###
