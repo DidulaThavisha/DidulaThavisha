@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Didula Samaraweera</h1>
 
+<div align="center">
+
+![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
+</div>
+
+<div align="center">
+
 🔭 I’m currently an Undergrad of University of Moratuwa, Sri Lanka<br>👯 I’m looking to collaborate and compete<br>🤝 I’m looking for collaborations for Computer Vision related Project<br>🌱 I’m currently learning Generative AI & TinyML<br>💬 Don't hesitate to contact me <br>⚡ Fun fact - I am lazy but smart
 
 
