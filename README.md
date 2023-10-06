@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![image](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/image.gif)
+![image](2ua0.gif)
 </div>
 
 <div align="center">
