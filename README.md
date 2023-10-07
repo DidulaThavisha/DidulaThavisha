@@ -42,3 +42,4 @@
 <!--<img src="https://raw.githubusercontent.com/DidulaThavisha/DidulaThavisha/output/snake.svg" alt="Snake animation" />-->
 
 ###
+![image](github-contribution-grid-snake.svg)
