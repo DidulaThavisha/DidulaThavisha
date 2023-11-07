@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![image](2ua0.gif)
+![image](giphy.gif)
 </div>
 
 <div align="center">
